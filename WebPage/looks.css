@@ -1,0 +1,135 @@
+body{
+	background-color:lightyellow;
+}
+
+h1{
+	color:purple;
+	margin-left:800px;
+	margin-right:800px;
+	font-size:60px;
+	text-align:center;
+	font-family:Comic Sans MS;
+	border-bottom:5px solid black
+}
+
+#HomeP1 {
+	font-family:Courier new;
+	background-color:lightgreen;
+	font-size:20px;
+	padding:10px;
+	border-color:black;
+	border-width:6px;
+	border-style:dashed;
+	margin-left:800px;
+	margin-right:100px;
+	margin-bottom:0px;
+}
+
+#imug1{
+	background-color:silver;
+	border-color:lightgreen;
+	border-width:10px;
+	border-style:solid;
+	margin-left:150px;
+	margin-top:0px;
+	width:500px;
+}
+
+#HomeP2{
+	font-family:Courier new;
+	background-color:lightblue;
+	font-size:20px;
+	padding:10px;
+	border-color:black;
+	border-width:6px;
+	border-style:Dashed;
+	margin-left:200px;
+	margin-right:750px;
+	margin-bottom:0px;
+}
+
+#imug2{
+	background-color:silver;
+	border-color:lightblue;
+	border-width:10px;
+	border-style:solid;
+	margin-left:1200px;
+	width:500px;
+	height:275px;
+	
+}
+
+.fasttravels{
+	font-family:arial black;
+	font-size:18px;
+	color:brown;
+	margin-left:800px;
+}
+#javasc{
+	color:purple;
+	margin-left:725px;
+	margin-right:725px;
+	font-size:60px;
+	text-align:center;
+	font-family:Comic Sans MS;
+	border-bottom:5px solid black	
+}
+
+#HomeP3{
+	font-family:Courier new;
+	background-color:pink;
+	font-size:20px;
+	padding:10px;
+	border-color:black;
+	border-style:dashed;
+	border-width:6px;
+	margin-left:800px;
+	margin-right:100px;
+	margin-bottom:0px;
+}
+
+#imug3{
+	background-color:silver;
+	border-color:pink;
+	border-width:10px;
+	border-style:solid;
+	margin-left:150px;
+	margin-top:0px;
+	width:500px;
+}
+
+h2{
+	text-align:center;
+	font-family:impact;
+	font-size:60px;
+	color:brown;
+	border-bottom:5px solid black;
+	margin-right:600px;
+	margin-left:600px;
+}
+
+.MoreP{
+	font-family:Comic Sans MS;
+	background-image:url(imige.jpg);
+	font-size:27px;
+	color:yellow;
+	padding:10px;
+	border-color:black;
+	border-style:solid;
+	border-width:9px;
+	margin-left:400px;
+	margin-right:400px;
+}
+#OnlyTable{
+    font-size:50px;
+	border-color:black;
+	border-style:solid;
+	border-width:10px;
+	margin-left:650px;
+	margin-right:650px;
+}
+.fortables{
+	border-color:black;
+	border-style:solid;
+	border-width:5px;
+}
